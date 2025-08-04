@@ -1,4 +1,4 @@
-## Hi there 👋
+## - AI agent designed to assist faculty with NACC accreditation processes (RAG Based)  
 
 <!--
 **PranitaIngale/PranitaIngale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
