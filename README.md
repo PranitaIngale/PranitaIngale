@@ -1,5 +1,15 @@
 ## - AI agent designed to assist faculty with NACC accreditation processes (RAG Based)  
 
+It retrieves institutional data, past reports, and NAAC guidelines to provide precise, context-aware 
+support. 
+Faculty can interact with the agent to generate SSR drafts, criteria-wise inputs, and best practice 
+documentation. 
+The RAG approach ensures answers are grounded in trusted sources and tailored to the institution's 
+context. 
+It streamlines documentation, enhances accuracy, and reduces time spent on repetitive tasks. 
+This AI assistant empowers faculty to focus on quality improvement while ensuring NAAC compliance. 
+
+
 <!--
 **PranitaIngale/PranitaIngale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
